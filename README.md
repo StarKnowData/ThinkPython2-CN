@@ -27,11 +27,6 @@
 
 TEX 精校版 PDF 的分享链接为：https://pan.baidu.com/s/1pLiwSAn。
 
-如果你觉得这本书对你有帮助，可以考虑扫描下面的二维码，打赏我一杯咖啡。
-
-![赞助编程派的翻译计划](http://ww1.sinaimg.cn/mw690/006faQNTgw1f1g1gf903aj308w0ai74q.jpg)
-
-同时也欢迎大家关注我的微信公众号：编程派（ID：codingpy），现在基本是每天定期更新，分享 Python 精彩教程和资源。
 
 ***
 
